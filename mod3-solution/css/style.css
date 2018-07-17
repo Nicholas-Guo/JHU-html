@@ -1,12 +1,22 @@
-p {
+/*p {
 	color: red;
 }
 
 .navbar-light {
 	background-color: #eee;
+	padding: 0;
+}
+
+.navbar-nav li {
+	border: 1px solid black;
+}
+
+.navbar-brand {
+	margin-left: 30px;
+	font-size: 2em;
 }
 
 .row {
 	background-color: maroon;
-	height: 1000px;
-}
+	color: white;
+}*/
