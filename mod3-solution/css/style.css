@@ -1,0 +1,12 @@
+p {
+	color: red;
+}
+
+.navbar-light {
+	background-color: #eee;
+}
+
+.row {
+	background-color: maroon;
+	height: 1000px;
+}
